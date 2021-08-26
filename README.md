@@ -1,6 +1,6 @@
 ## Overview
 
-xx
+xxx
 
 [![Build Status](https://api.travis-ci.com/silverstripe/cwp-installer.svg?branch=2)](https://travis-ci.com/silverstripe/cwp-installer)
 
