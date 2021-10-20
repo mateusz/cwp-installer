@@ -59,6 +59,9 @@
             "url": "git@github.com:silverstripeltd/paas-platform-yml-compiler.git"
         }
     ],
+    "scripts": {
+        "cloud-build": "echo 'Hello from composer cloud-build script'"
+    },
     "prefer-stable": true,
     "minimum-stability": "dev"
 }

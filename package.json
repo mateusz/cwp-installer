@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "cloud-build": "echo 'Hello from npm cloud-build script!'"
+  }
+}
