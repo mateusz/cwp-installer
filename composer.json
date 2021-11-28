@@ -19,7 +19,8 @@
         "silverstripe/registry": "2.3.x-dev",
         "cwp/starter-theme": "3.2.x-dev",
         "silverstripe/mfa": "4.3.x-dev",
-        "silverstripe/totp-authenticator": "4.1.x-dev"
+        "silverstripe/totp-authenticator": "4.1.x-dev",
+        "mateusz/dummy-module": "dev-master"
     },
     "suggest": {
         "silverstripe/recipe-content-blocks": "Supplement the CMS with a 'content block' approach to editing"
@@ -52,5 +53,12 @@
         "process-timeout": 600
     },
     "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://gitlab.cwp.wgtn.silverstripe.com/mateusz.uzdowski/dummy-module.git",
+            "private": "true"
+        }
+    ],
     "minimum-stability": "dev"
 }
