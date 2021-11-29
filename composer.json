@@ -56,8 +56,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://gitlab.cwp.wgtn.silverstripe.com/mateusz.uzdowski/dummy-module.git",
-            "private": "true"
+            "url": "ssh://git@git.cwp.govt.nz:22/mateusz.uzdowski/dummy-module.git"
         }
     ],
     "minimum-stability": "dev"

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a192646d1ee9c69388f8b987e28ad6f4",
+    "content-hash": "c23f30a2e355c0969fa89e24f1bae628",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -2229,7 +2229,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://gitlab.cwp.wgtn.silverstripe.com/mateusz.uzdowski/dummy-module.git",
+                "url": "ssh://git@git.cwp.govt.nz:22/mateusz.uzdowski/dummy-module.git",
                 "reference": "067ac04896bd11f6bf320f773980887b65e49e14"
             },
             "default-branch": true,
