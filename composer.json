@@ -48,6 +48,7 @@
             "web.config"
         ]
     },
+    "scripts": [],
     "config": {
         "process-timeout": 600
     },
